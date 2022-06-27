@@ -1,9 +1,9 @@
 # Star_Fighters_The_Empire_Reborn
 
-## This game was made By [Sampedro Cyril](https://csampedro30.github.io/Portfolio/) and Scaerou Quentin.
+## This game was made By [Sampedro Cyril](https://github.com/SampedroCyril) and Scaerou Quentin.
 
-Part of a contest during our training in JAVA JEE, we worked 3 weeks on this project.
-We generated all the graphic items (player and enemies sprites, background, shots,...) are generated procedurally, by using HTML canvas and lots of JavaScript methods.
+Part of a contest (that we won!) during our training in JAVA JEE, we worked 3 weeks on this project.
+All the graphic items (player and enemies sprites, background, shots,...) are generated procedurally, by using HTML canvas and lots of JavaScript methods.
 
 The game music is also customized. We used the website Beepbox to create our own 8-bit game theme.
 
